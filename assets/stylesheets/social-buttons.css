@@ -709,6 +709,26 @@ a.sb.facebook,
 	background-image: url(images/facebook.png);
 }
 
+a.sb.github,
+.sb a.github {
+	background-image: url(images/github.png);
+}
+
+a.sb.phone,
+.sb a.phone {
+	background-image: url(images/phone.png);
+}
+
+a.sb.mobile,
+.sb a.mobile {
+	background-image: url(images/mobile.png);
+}
+
+a.sb.github-light,
+.sb a.github-light {
+	background-image: url(images/github-light.png);
+}
+
 a.sb.heart,
 .sb a.heart {
 	background-image: url(images/heart.png);
